@@ -1,0 +1,2 @@
+# Explainable-AI-for-Intrusion-Detection-Systems-LIME-and-SHAP-Applicability-on-Multi-Layer-Perceptron
+Explainable AI for Intrusion Detection using Multi-Layer Perceptron. This project applies LIME and SHAP to interpret model predictions, highlighting key features influencing decisions. It improves transparency, trust, and accuracy in detecting cyber threats, making AI-based security systems more reliable.
